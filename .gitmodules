@@ -13,3 +13,6 @@
 [submodule "Ruby-Haml.tmbundle"]
 	path = Pristine Copy/Bundles/Ruby-Haml.tmbundle
 	url = git://github.com/textmate/ruby-haml.tmbundle.git
+[submodule "Pristine Copy/Bundles/Ruby-Sass.tmbundle"]
+	path = Pristine Copy/Bundles/Ruby-Sass.tmbundle
+	url = git://github.com/charlesr/ruby-sass-tmbundle.git
