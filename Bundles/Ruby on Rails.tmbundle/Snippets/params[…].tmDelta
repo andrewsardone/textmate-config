@@ -8,7 +8,9 @@
 		<string>par</string>
 	</dict>
 	<key>deleted</key>
-	<array/>
+	<array>
+		<string>keyEquivalent</string>
+	</array>
 	<key>isDelta</key>
 	<true/>
 	<key>uuid</key>
