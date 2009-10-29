@@ -7,3 +7,6 @@
 [submodule "Ack In Project.tmbundle"]
 	path = Pristine Copy/Bundles/Ack In Project.tmbundle
 	url = git://github.com/protocool/ack-tmbundle.git
+[submodule "Git.tmbundle"]
+	path = Pristine Copy/Bundles/Git.tmbundle
+	url = git://github.com/timcharper/git-tmbundle.git
