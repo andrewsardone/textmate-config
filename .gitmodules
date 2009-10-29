@@ -10,3 +10,6 @@
 [submodule "Git.tmbundle"]
 	path = Pristine Copy/Bundles/Git.tmbundle
 	url = git://github.com/timcharper/git-tmbundle.git
+[submodule "Ruby-Haml.tmbundle"]
+	path = Pristine Copy/Bundles/Ruby-Haml.tmbundle
+	url = git://github.com/textmate/ruby-haml.tmbundle.git
