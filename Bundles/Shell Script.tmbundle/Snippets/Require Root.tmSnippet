@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>if [[ $(/usr/bin/id -u) -ne 0 ]]; then
+  echo "${0:message}"
+  exit
+fi</string>
+	<key>name</key>
+	<string>Require Root</string>
+	<key>scope</key>
+	<string>source.shell</string>
+	<key>tabTrigger</key>
+	<string>rr</string>
+	<key>uuid</key>
+	<string>B58502D4-37D1-4C86-9ABF-F592A2FD100B</string>
+</dict>
+</plist>
