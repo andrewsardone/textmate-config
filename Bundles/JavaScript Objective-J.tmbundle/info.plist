@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>mainMenu</key>
+		<dict>
+			<key>items</key>
+			<array>
+				<string>96C39647-4346-4750-9F96-58070F24EDE6</string>
+				<string>AA41BEF8-5F81-4A5A-85DE-2E81A112778B</string>
+				<string>85B0746B-AE1C-47B3-8B9A-2B9A95F4C71E</string>
+				<string>8A7CC9B9-318C-47D6-8321-130A6D7068EB</string>
+			</array>
+			<key>submenus</key>
+			<dict>
+				<key>8A7CC9B9-318C-47D6-8321-130A6D7068EB</key>
+				<dict>
+					<key>items</key>
+					<array>
+						<string>172C556A-EAB3-4095-8F4D-38EC50193B50</string>
+					</array>
+					<key>name</key>
+					<string>Language Boilerplate</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>1FB3D538-84E1-4002-AA46-5705529A27E1</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>- (${1:id})${2:${TM_SELECTED_TEXT:method}}${3::(${4:id})${5:${4/(NS([AEIOQUY])?(\w+).*)|(.)?.*/(?1:a(?2:n$2)$3:(?4:anArgument))/}}}
+{$0${1/^(void|IBAction)$|(.*)/(?2:
+	return nil;)/}
+}</string>
+	<key>name</key>
+	<string>Method</string>
+	<key>tabTrigger</key>
+	<string>m</string>
+	<key>uuid</key>
+	<string>172C556A-EAB3-4095-8F4D-38EC50193B50</string>
+</dict>
+</plist>
