@@ -19,3 +19,6 @@
 [submodule "Sinatra.tmbundle"]
 	path = Pristine Copy/Bundles/Sinatra.tmbundle
 	url = git://github.com/foca/sinatra-tmbundle.git
+[submodule "JavaScript Objective-J.tmbundle"]
+	path = Pristine Copy/Bundles/JavaScript Objective-J.tmbundle
+	url = git://github.com/textmate/javascript-objective-j.tmbundle.git
