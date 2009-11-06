@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@import &lt;${1:Foundation/CPObject.j}&gt;</string>
+	<key>name</key>
+	<string>#import &lt;...&gt;</string>
+	<key>scope</key>
+	<string>source.js.objj</string>
+	<key>tabTrigger</key>
+	<string>Imp</string>
+	<key>uuid</key>
+	<string>8408DF7B-804E-42AC-AACE-0B42C5E3A3FB</string>
+</dict>
+</plist>

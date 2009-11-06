@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@implementation ${1:${TM_FILENAME/\...*$|(^$)/(?1:object)/}}
+- (id)init
+{
+	if (self = [super init])
+	{$0
+	}
+	return self;
+}
+@end</string>
+	<key>name</key>
+	<string>Class Implementation</string>
+	<key>scope</key>
+	<string>source.js.objj</string>
+	<key>tabTrigger</key>
+	<string>clm</string>
+	<key>uuid</key>
+	<string>285B0A5E-912B-4D96-AD8E-BCD4C279A1E4</string>
+</dict>
+</plist>
