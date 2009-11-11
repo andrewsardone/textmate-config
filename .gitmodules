@@ -22,3 +22,6 @@
 [submodule "JavaScript Objective-J.tmbundle"]
 	path = Pristine Copy/Bundles/JavaScript Objective-J.tmbundle
 	url = git://github.com/textmate/javascript-objective-j.tmbundle.git
+[submodule "Cucumber.tmbundle"]
+	path = Pristine Copy/Bundles/Cucumber.tmbundle
+	url = git://github.com/bmabey/cucumber-tmbundle.git
