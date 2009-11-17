@@ -25,3 +25,6 @@
 [submodule "Cucumber.tmbundle"]
 	path = Pristine Copy/Bundles/Cucumber.tmbundle
 	url = git://github.com/bmabey/cucumber-tmbundle.git
+[submodule "Cappuccino.tmbundle"]
+	path = Pristine Copy/Bundles/Cappuccino.tmbundle
+	url = git://github.com/malkomalko/Cappuccino.tmbundle.git
